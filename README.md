@@ -1,4 +1,4 @@
-# Vue 3 + Vite 
+# Vue 3 + Vite + Vue Router 4 + Firebase 9 + Boostraps 5 
 
 Esta es una practica personal del manejo de las funciones de Vuejs Vite consumiendo la API de Firebase 9, que tiene algunas novedades muy distintas a la 8, 
 y consumiendo Vue Router 4, realmente la velocidad de Vite es increible. 
