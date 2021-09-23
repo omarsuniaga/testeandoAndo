@@ -9,3 +9,4 @@ Se trata de un CRUD con manejo de autenticacion, Base de datos, Paginas con auto
 ## Recommended IDE Setup
 
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+- [Vue Router 4] + [Vue 3] + [Firebase 9] + [Vite]
